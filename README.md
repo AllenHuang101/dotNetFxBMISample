@@ -1,3 +1,5 @@
+https://dev.azure.com/azurelaballen/CIBuildWithUnitTest/_apis/build/status/CIBuildWithUnitTest-ASP.NET-CI
+
 # dotNetFxBMISample
 ## asp.net MVC BMI Sample code with unit test 
 
